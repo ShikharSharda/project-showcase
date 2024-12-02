@@ -13,8 +13,5 @@
   "devDependencies": {
     "esbuild": "^0.23.0",
     "serve": "^14.2.3"
-  },
-  "dependencies": {
-    "gsap": "file:gsap-bonus.tgz"
   }
 }
